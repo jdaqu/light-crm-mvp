@@ -1,0 +1,19 @@
+{
+    "clients": {
+        "title": "Clients",
+        "modal": {
+            "title": "Add New Clients"
+        },
+        "form":{
+            "name": "Name",
+            "budget": "Budget",
+            "phone": "Phone"
+        }        
+    },
+    "shared": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "create": "Create"
+    }
+}
+  
